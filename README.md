@@ -279,10 +279,43 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- 📧 **Email**: wildguard360@example.com
+- 📧 **Email**: [wildguard360@example.com](mailto:wildguard360@example.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Poseidon120104/SC1_WildGuard360/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/Poseidon120104/SC1_WildGuard360/discussions)
-- 📱 **Social Media**: Follow us for updates and conservation news
+- 📖 **Documentation**: [Wiki](https://github.com/Poseidon120104/SC1_WildGuard360/wiki)
+
+## 📈 Project Status
+
+![GitHub stars](https://img.shields.io/github/stars/Poseidon120104/SC1_WildGuard360?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Poseidon120104/SC1_WildGuard360?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Poseidon120104/SC1_WildGuard360)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Poseidon120104/SC1_WildGuard360)
+
+- ✅ **Animal Classification Models**: Snake, Bird, Dog recognition
+- ✅ **Community Platform**: Social features and user management  
+- ✅ **Donation System**: Support for wildlife conservation
+- 🔄 **In Progress**: Real-time rescue coordination
+- 📋 **Planned**: Mobile application development
+
+## 📋 Roadmap
+
+### Phase 1 (Current)
+- [x] Basic animal classification
+- [x] User authentication and profiles
+- [x] Community posting system
+- [x] Donation platform
+
+### Phase 2 (Next)
+- [ ] Mobile app development (React Native)
+- [ ] Real-time chat and notifications
+- [ ] Advanced ML models for more species
+- [ ] Geolocation-based features
+
+### Phase 3 (Future)
+- [ ] IoT integration for wildlife monitoring
+- [ ] Augmented reality animal identification
+- [ ] Machine learning model marketplace
+- [ ] International NGO network expansion
 
 ## 🌍 Making a Difference
 
