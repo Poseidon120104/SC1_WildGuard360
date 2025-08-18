@@ -6,26 +6,34 @@
 [![Python](https://img.shields.io/badge/Python-Flask-yellow)](https://python.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)](https://mongodb.com/)
 
-**WildGuard360** is a comprehensive wildlife and pet protection platform that leverages cutting-edge AI technology to ensure the safety and well-being of animals. Our mission is to create a harmonious world where wildlife thrives alongside human development through innovative detection systems, efficient rescue operations, and a robust network of wildlife protection measures.
+**WildGuard360** is a comprehensive wildlife and pet protection platform that leverages 
+cutting-edge AI technology to ensure the safety and well-being of animals. Our mission is 
+to create a harmonious world where wildlife thrives alongside human development through 
+innovative detection systems, efficient rescue operations, and a robust network of 
+wildlife protection measures.
 
 ## 🌟 Features
 
 ### 🔍 AI-Powered Animal Detection & Classification
+
 - **Snake Species Classification**: Identify and classify snake species for safety assessment
 - **Bird Species Recognition**: Comprehensive bird identification system
 - **Dog Breed & Health Detection**: Advanced dog breed recognition with health monitoring
 
 ### 🚨 Emergency Rescue Services
+
 - **Missing Pet Finder**: Report and search for lost pets with geolocation tracking
 - **24/7 Rescue Operations**: Connect with local NGOs and rescue organizations
 - **Real-time Alert System**: Immediate notifications for emergency situations
 
 ### 🏥 Animal Health Monitoring
+
 - **Disease Detection**: AI-powered health diagnostics for pets and wildlife
 - **Symptom Analysis**: Early detection of common animal diseases
 - **Health Recommendations**: Provide care suggestions and treatment options
 
 ### 📰 Wildlife Conservation
+
 - **Wildlife News & Updates**: Latest conservation news and wildlife protection initiatives
 - **Community Engagement**: Connect with fellow wildlife enthusiasts and conservationists
 - **Educational Resources**: Learn about wildlife protection and conservation efforts
@@ -222,7 +230,9 @@ For support, email wildguard360@example.com or join our community discussions.
 
 ## 🌍 Vision
 
-Our vision is a world where wildlife thrives in harmony with human development. We believe that by leveraging advanced technology and fostering a collaborative approach, we can create sustainable solutions that benefit both animals and humans.
+Our vision is a world where wildlife thrives in harmony with human development. 
+We believe that by leveraging advanced technology and fostering a collaborative approach, 
+we can create sustainable solutions that benefit both animals and humans.
 
 ---
 
